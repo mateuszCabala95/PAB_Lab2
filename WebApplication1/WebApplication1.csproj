@@ -14,4 +14,8 @@
       <Folder Include="StaticFiles\images" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Include="wwwroot\images\tree.jpg" />
+    </ItemGroup>
+
 </Project>
